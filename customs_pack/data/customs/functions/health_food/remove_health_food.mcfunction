@@ -1,0 +1,2 @@
+scoreboard objectives remove Player_Health
+scoreboard objectives remove Player_Food

@@ -1,0 +1,1 @@
+give @s minecraft:music_disc_mellohi{display:{Lore:['{"text":"mellohi"}','{"text":"Press right click to Jukebox."}']},HideFlags:5,song_mellohi:1b} 1

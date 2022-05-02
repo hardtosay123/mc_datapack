@@ -1,0 +1,1 @@
+give @s minecraft:music_disc_wait{display:{Lore:['{"text":"wait"}','{"text":"Press right click to Jukebox."}']},HideFlags:5,song_wait:1b} 1

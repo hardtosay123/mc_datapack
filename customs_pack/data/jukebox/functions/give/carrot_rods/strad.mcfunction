@@ -1,0 +1,1 @@
+give @s minecraft:music_disc_strad{display:{Lore:['{"text":"strad"}','{"text":"Press right click to Jukebox."}']},HideFlags:5,song_strad:1b} 1

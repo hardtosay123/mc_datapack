@@ -1,0 +1,1 @@
+give @s minecraft:music_disc_ward{display:{Lore:['{"text":"ward"}','{"text":"Press right click to Jukebox."}']},HideFlags:5,song_ward:1b} 1

@@ -1,0 +1,1 @@
+give @s minecraft:music_disc_11{display:{Lore:['{"text":"11"}','{"text":"Press right click to Jukebox."}']},HideFlags:5,song_11:1b} 1

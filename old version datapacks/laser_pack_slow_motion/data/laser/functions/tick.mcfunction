@@ -1,0 +1,1 @@
+execute as @a[scores={rightclick=1..}] at @s run function laser:rightclick

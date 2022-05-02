@@ -1,0 +1,1 @@
+summon minecraft:armor_stand ~ ~ ~ {CustomName:'{"text":"Server","color":"#FFD700"}',Tags:[set_pack],Marker:1b,NoGravity:1b,Invisible:1b}

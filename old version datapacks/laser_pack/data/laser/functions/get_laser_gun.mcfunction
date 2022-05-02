@@ -1,0 +1,1 @@
+give @s minecraft:carrot_on_a_stick{laser:1b,Unbreakable:1b} 1

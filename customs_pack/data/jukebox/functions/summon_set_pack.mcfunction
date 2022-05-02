@@ -1,0 +1,1 @@
+summon minecraft:armor_stand ~ ~ ~ {CustomName:'{"text":"Jukebox","color":"#FFD700"}',Tags:[set_jukebox],Marker:1b,NoGravity:1b,Invisible:1b}

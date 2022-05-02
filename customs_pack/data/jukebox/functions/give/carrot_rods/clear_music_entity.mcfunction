@@ -1,0 +1,1 @@
+give @s minecraft:carrot_on_a_stick{display:{Name:'[{"text":"Clear Music Entity","color":"#00AAAA","italic":false}]',Lore:['{"text":"Press right click to use."}','{"text":"Kill all music armor stand"}']},HideFlags:5,Unbreakable:1b,clear_music_entity:1b} 1

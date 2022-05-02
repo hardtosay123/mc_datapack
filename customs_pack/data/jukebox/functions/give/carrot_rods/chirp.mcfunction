@@ -1,0 +1,1 @@
+give @s minecraft:music_disc_chirp{display:{Lore:['{"text":"chirp"}','{"text":"Press right click to Jukebox."}']},HideFlags:5,song_chirp:1b} 1

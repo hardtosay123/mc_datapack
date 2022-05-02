@@ -1,0 +1,1 @@
+execute store result score Players online_players if entity @a

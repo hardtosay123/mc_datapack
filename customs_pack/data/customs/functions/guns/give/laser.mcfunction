@@ -1,0 +1,1 @@
+give @s minecraft:carrot_on_a_stick{display:{Name:'[{"text":"Laser Gun ","color":"#00AAAA","italic":false},{"text":"[Legendary]","color":"#FFAA00"}]',Lore:['{"text":"Press right click to use."}','{"text":"Can destroy any things and mobs!"}']},HideFlags:5,guns:1b,laser:1b,Unbreakable:1b} 1

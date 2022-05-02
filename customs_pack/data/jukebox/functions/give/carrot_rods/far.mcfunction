@@ -1,0 +1,1 @@
+give @s minecraft:music_disc_far{display:{Lore:['{"text":"far"}','{"text":"Press right click to Jukebox."}']},HideFlags:5,song_far:1b} 1

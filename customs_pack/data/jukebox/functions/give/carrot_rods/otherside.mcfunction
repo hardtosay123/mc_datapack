@@ -1,0 +1,1 @@
+give @s minecraft:music_disc_otherside{display:{Lore:['{"text":"otherside"}','{"text":"Press right click to Jukebox."}']},HideFlags:5,song_otherside:1b} 1
