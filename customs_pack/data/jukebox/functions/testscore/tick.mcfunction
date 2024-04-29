@@ -12,5 +12,7 @@ execute as @a[scores={song_stal=1..}] at @s run function jukebox:testscore/right
 execute as @a[scores={song_strad=1..}] at @s run function jukebox:testscore/right_click/strad
 execute as @a[scores={song_wait=1..}] at @s run function jukebox:testscore/right_click/wait
 execute as @a[scores={song_ward=1..}] at @s run function jukebox:testscore/right_click/ward
+execute as @a[scores={song_5=1..}] at @s run function jukebox:testscore/right_click/5
+execute as @a[scores={song_relic=1..}] at @s run function jukebox:testscore/right_click/relic
 
 execute as @a[scores={stop_music=1..}] at @s run function jukebox:testscore/right_click_stop_music

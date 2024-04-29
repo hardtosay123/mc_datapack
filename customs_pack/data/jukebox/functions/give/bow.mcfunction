@@ -1,1 +1,1 @@
-give @s minecraft:bow{Enchantments:[{id:infinity,lvl:1}],display:{Name:'[{"text":"Set Jukebox","color":"#00AAAA","italic":false}]',Lore:['{"text":"Shoot to summon jukebox."}','{"text":"You must use it in Creative mode!"}']},HideFlags:5,jukebox:1b,Unbreakable:1b} 1
+give @s minecraft:bow{Enchantments:[{id:"minecraft:infinity",lvl:1}],display:{Name:'[{"text":"Set Jukebox","color":"#00AAAA","italic":false}]',Lore:['{"text":"Shoot to summon jukebox."}','{"text":"You must use it in Creative mode!"}']},HideFlags:5,jukebox:1b,Unbreakable:1b} 1

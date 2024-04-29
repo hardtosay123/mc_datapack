@@ -12,3 +12,5 @@ stopsound @a * minecraft:music_disc.stal
 stopsound @a * minecraft:music_disc.strad
 stopsound @a * minecraft:music_disc.wait
 stopsound @a * minecraft:music_disc.ward
+stopsound @a * minecraft:music_disc.5
+stopsound @a * minecraft:music_disc.relic

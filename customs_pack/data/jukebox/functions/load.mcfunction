@@ -15,6 +15,8 @@ scoreboard objectives remove song_stal
 scoreboard objectives remove song_strad
 scoreboard objectives remove song_wait
 scoreboard objectives remove song_ward
+scoreboard objectives remove song_5
+scoreboard objectives remove song_relic
 
 
 
@@ -33,3 +35,5 @@ scoreboard objectives add song_stal minecraft.used:minecraft.music_disc_stal "so
 scoreboard objectives add song_strad minecraft.used:minecraft.music_disc_strad "song_strad"
 scoreboard objectives add song_wait minecraft.used:minecraft.music_disc_wait "song_wait"
 scoreboard objectives add song_ward minecraft.used:minecraft.music_disc_ward "song_ward"
+scoreboard objectives add song_5 minecraft.used:minecraft.music_disc_5 "song_5"
+scoreboard objectives add song_relic minecraft.used:minecraft.music_disc_relic "song_relic"
