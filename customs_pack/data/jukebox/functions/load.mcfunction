@@ -1,6 +1,9 @@
 scoreboard objectives remove stop_music
 scoreboard objectives add stop_music minecraft.used:minecraft.carrot_on_a_stick "stop_music"
 
+scoreboard objectives remove music_delay_tick
+scoreboard objectives add music_delay_tick dummy "music_delay_tick"
+
 scoreboard objectives remove song_11
 scoreboard objectives remove song_13
 scoreboard objectives remove song_blocks
