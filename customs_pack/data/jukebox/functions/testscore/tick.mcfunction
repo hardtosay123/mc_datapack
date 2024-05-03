@@ -21,4 +21,4 @@ execute as @a[scores={stop_music=1..}] at @s run function jukebox:testscore/righ
 
 
 # music schedule
-execute as @e[type=minecraft:armor_stand,tag=set_jukebox] at @s if entity @s[scores={schedule_music=1..}] run function jukebox:delay/11
+execute as @e[type=minecraft:armor_stand,tag=set_jukebox] at @s if entity @s[scores={schedule_music=1..}] run function jukebox:schedule/tick
