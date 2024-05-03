@@ -1,3 +1,26 @@
+execute as @e[type=minecraft:armor_stand,tag=set_jukebox] run scoreboard players reset @s schedule_music
+
+execute as @e[type=minecraft:armor_stand,tag=set_jukebox] run scoreboard players reset @s play_song_11
+execute as @e[type=minecraft:armor_stand,tag=set_jukebox] run scoreboard players reset @s play_song_13
+execute as @e[type=minecraft:armor_stand,tag=set_jukebox] run scoreboard players reset @s play_song_blocks
+execute as @e[type=minecraft:armor_stand,tag=set_jukebox] run scoreboard players reset @s play_song_cat
+execute as @e[type=minecraft:armor_stand,tag=set_jukebox] run scoreboard players reset @s play_song_chirp
+execute as @e[type=minecraft:armor_stand,tag=set_jukebox] run scoreboard players reset @s play_song_far
+execute as @e[type=minecraft:armor_stand,tag=set_jukebox] run scoreboard players reset @s play_song_mall
+execute as @e[type=minecraft:armor_stand,tag=set_jukebox] run scoreboard players reset @s play_song_mellohi
+execute as @e[type=minecraft:armor_stand,tag=set_jukebox] run scoreboard players reset @s play_song_otherside
+execute as @e[type=minecraft:armor_stand,tag=set_jukebox] run scoreboard players reset @s play_song_pigstep
+execute as @e[type=minecraft:armor_stand,tag=set_jukebox] run scoreboard players reset @s play_song_stal
+execute as @e[type=minecraft:armor_stand,tag=set_jukebox] run scoreboard players reset @s play_song_strad
+execute as @e[type=minecraft:armor_stand,tag=set_jukebox] run scoreboard players reset @s play_song_wait
+execute as @e[type=minecraft:armor_stand,tag=set_jukebox] run scoreboard players reset @s play_song_ward
+execute as @e[type=minecraft:armor_stand,tag=set_jukebox] run scoreboard players reset @s play_song_5
+execute as @e[type=minecraft:armor_stand,tag=set_jukebox] run scoreboard players reset @s play_song_relic
+
+execute as @e[type=minecraft:armor_stand,tag=set_jukebox] run scoreboard players reset @s music_delay_timer
+
+
+
 stopsound @a * minecraft:music_disc.11
 stopsound @a * minecraft:music_disc.13
 stopsound @a * minecraft:music_disc.blocks
