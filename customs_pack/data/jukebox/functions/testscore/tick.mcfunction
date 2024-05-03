@@ -1,3 +1,4 @@
+# set start music 1
 execute as @a[scores={song_11=1..}] at @s run function jukebox:testscore/right_click/11
 execute as @a[scores={song_13=1..}] at @s run function jukebox:testscore/right_click/13
 execute as @a[scores={song_blocks=1..}] at @s run function jukebox:testscore/right_click/blocks
@@ -16,3 +17,8 @@ execute as @a[scores={song_5=1..}] at @s run function jukebox:testscore/right_cl
 execute as @a[scores={song_relic=1..}] at @s run function jukebox:testscore/right_click/relic
 
 execute as @a[scores={stop_music=1..}] at @s run function jukebox:testscore/right_click_stop_music
+
+
+
+# music schedule
+execute as @e[type=minecraft:armor_stand,tag=set_jukebox] at @s if entity @s[scores={schedule_music=1..}] run function jukebox:delay/11
