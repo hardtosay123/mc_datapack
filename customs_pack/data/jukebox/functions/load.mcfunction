@@ -40,8 +40,6 @@ scoreboard objectives add song_5 minecraft.used:minecraft.music_disc_5 "song_5"
 scoreboard objectives add song_relic minecraft.used:minecraft.music_disc_relic "song_relic"
 
 
-
-scoreboard objectives remove music_delay_tick
 scoreboard objectives add music_delay_tick dummy "music_delay_tick"
 
 scoreboard objectives remove music_delay_timer
